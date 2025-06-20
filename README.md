@@ -18,10 +18,10 @@ Focus on <b>Data Analysis</b> | <b>Game Server Development</b> | <b>Web Projects
   </a>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=stenlykaelan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&text_color=00FFFF" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stenlykaelan&theme=tokyonight&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="150">
-</p>
+ <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=stenlykaelan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&text_color=00FFFF" height="150">
+    <img src="https://streak-stats.demolab.com?user=stenlykaelan&theme=tokyonight&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="150">
+  </p>
 
 <h2>Skills & Tools</h2>
 <p align="center">
