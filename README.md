@@ -23,7 +23,7 @@ Focus on <b>Data Analysis</b> | <b>Game Server Development</b> | <b>Web Projects
     <img src="https://streak-stats.demolab.com?user=stenlykaelan&theme=tokyonight&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="150">
   </p>
 
-<h2>Skills & Tools</h2>
+<h2></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Pawn-000000?style=for-the-badge&logo=codingninjas&logoColor=cyan">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=cyan">
