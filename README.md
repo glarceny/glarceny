@@ -1,6 +1,6 @@
 <div align="center" style="background-color:#000; color:#00ffff; padding: 20px; border-radius: 10px;">
 
-  <h1 style="color:#00ffff;">Stenly's Christians Volgd</h1>
+  <h1 style="color:#00ffff;">AfGlarcFecven</h1>
 
   <p>
     Focus on <b>Data Analysis</b> | <b>Game Server Development</b> | <b>Web Projects</b> | <b>Pawn Scripting</b>
