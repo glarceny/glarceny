@@ -13,14 +13,14 @@
     <a href="https://vyuxn.xyz">
       <img src="https://img.shields.io/badge/Vyuxn-000000?style=for-the-badge&logo=google-cloud&logoColor=cyan">
     </a>
-    <a href="mailto:stenly@vyuxn.xyz">
+    <a href="mailto:glaeceny@vyuxn.xyz">
       <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=cyan">
     </a>
   </p>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=stenlykaelan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&text_color=00FFFF" height="150">
-    <img src="https://streak-stats.demolab.com?user=stenlykaelan&theme=tokyonight&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=glarceny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&text_color=00FFFF" height="150">
+    <img src="https://streak-stats.demolab.com?user=glarceny&theme=tokyonight&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="150">
   </p>
 
   <p>
