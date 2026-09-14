@@ -8,38 +8,17 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🧑‍💻 Tentang Saya
+<i>Belajar Data Analysis, ngoprek Game Server, dan bikin Web Projects kecil-kecilan sambil terus upgrade skill Pawn Scripting.</i>
 
-Halo, saya **Stenly (Llama ly's)**.
-Saya senang mengeksplorasi hal-hal seputar:
+<br><br>
 
-- 📊 **Data Analysis** — mengolah dan membaca data dengan Python
-- 🎮 **Game Server Development** — konfigurasi & scripting server game
-- 🕹️ **Pawn Scripting** — membuat gamemode/filterscript untuk SA-MP/open.mp
-- 🌐 **Web Projects** — proyek web skala kecil hingga menengah
+<img src="https://img.shields.io/badge/🔭_Fokus-Pawn_%26_Web_Projects-0a0a0a?style=for-the-badge&labelColor=000000&color=00ffff">
+<img src="https://img.shields.io/badge/🌱_Belajar-Python_Data_Analysis-0a0a0a?style=for-the-badge&labelColor=000000&color=00ffff">
+<img src="https://img.shields.io/badge/💬_Ngobrol-Pawn_%26_Server_Game-0a0a0a?style=for-the-badge&labelColor=000000&color=00ffff">
 
-Saya masih terus belajar dan mengembangkan skill di bidang-bidang ini, jadi repo di profil ini mencerminkan proses belajar tersebut, bukan proyek produksi skala besar.
-
-</td>
-<td width="50%" valign="top">
-
-### 📌 Info Singkat
-
-| | |
-|---|---|
-| 🔭 Fokus saat ini | Pawn Scripting & Web Projects |
-| 🌱 Sedang belajar | Python untuk Data Analysis |
-| 💬 Bisa ditanya soal | Pawn, konfigurasi server game, dasar Python |
-| 📫 Kontak | lihat tombol di bawah |
-| ⚡ Fun fact | Suka tema dark + cyan (siapa sangka) |
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
