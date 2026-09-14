@@ -1,105 +1,80 @@
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:00D9FF&height=180&section=header&text=Llama%20ly's&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%"/><br>Llama ly's
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffff&height=200&section=header&text=Llama%20ly's&fontSize=55&fontColor=00ffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analysis%20•%20Game%20Server%20Dev%20•%20Web%20Projects%20•%20Pawn%20Scripting&descAlignY=58&descAlign=50" width="100%"/>
+Developer · Builder · Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Belajar+Data+Analysis+dengan+Python;Membangun+Game+Server+berbasis+Pawn;Mengerjakan+Web+Projects+skala+kecil-menengah;Terbuka+untuk+kolaborasi+%26+diskusi" alt="Typing SVG" />
+I build small projects, experiment with systems,
+and learn through hands-on development.
 
-</div>
+<br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=560&lines=Learning+Python+%26+Data+Analysis;Building+with+Pawn;Exploring+Web+Development;Learning+Linux+%26+Infrastructure" /></div><br>---
 
-<br>
+About
 
-<div align="center">
+I'm interested in software development and enjoy learning by building things.
 
-<i>Belajar Data Analysis, ngoprek Game Server, dan bikin Web Projects kecil-kecilan sambil terus upgrade skill Pawn Scripting.</i>
+My current interests include Python, data analysis, Pawn scripting, web development, and server infrastructure.
 
-<br><br>
+I don't try to specialize in everything — I'm simply exploring different areas and gradually improving through projects and experimentation.
 
-<img src="https://img.shields.io/badge/🔭_Fokus-Pawn_%26_Web_Projects-0a0a0a?style=for-the-badge&labelColor=000000&color=00ffff">
-<img src="https://img.shields.io/badge/🌱_Belajar-Python_Data_Analysis-0a0a0a?style=for-the-badge&labelColor=000000&color=00ffff">
-<img src="https://img.shields.io/badge/💬_Ngobrol-Pawn_%26_Server_Game-0a0a0a?style=for-the-badge&labelColor=000000&color=00ffff">
+<br>Focus
 
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">Data
 
-<div align="center">
+Python · Data Analysis
 
-### 🔗 Terhubung dengan Saya
+Learning how to work with data using Python, from basic processing to analysis and visualization.
 
-<a href="https://id.stenly.org">
-  <img src="https://img.shields.io/badge/OrbitCloud-000000?style=for-the-badge&logo=cloudflare&logoColor=cyan"/>
-</a>
+</td><td width="50%" valign="top">Game Server
+
+Pawn · Server Development
+
+Working with Pawn scripting and experimenting with game-server systems and logic.
+
+</td>
+</tr><tr>
+<td width="50%" valign="top">Web
+
+Web · APIs · Projects
+
+Building small to medium web projects while learning more about how applications and APIs work.
+
+</td><td width="50%" valign="top">Infrastructure
+
+Linux · Cloudflare · Git
+
+Exploring Linux environments, server administration, networking, and development workflows.
+
+</td>
+</tr>
+</table><br>Technologies
+
+<div align="center"><img src="https://skillicons.dev/icons?i=python,html,css,linux,cloudflare,git,vscode&theme=dark" /><br><br>
+
+<img src="https://img.shields.io/badge/Pawn-111111?style=flat-square&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Data%20Analysis-111111?style=flat-square&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Server%20Administration-111111?style=flat-square&logoColor=00D9FF" /></div><br>GitHub Activity
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=glarceny&show_icons=true&hide_border=true&bg_color=050505&title_color=00D9FF&text_color=B8B8B8&icon_color=00D9FF&rank_icon=github" height="165"/><img src="https://streak-stats.demolab.com?user=glarceny&theme=dark&hide_border=true&background=050505&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=B8B8B8&dates=666666" height="165"/><br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glarceny&layout=compact&hide_border=true&bg_color=050505&title_color=00D9FF&text_color=B8B8B8" height="165"/></div><br>Contribution
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=glarceny&bg_color=050505&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" width="94%"/></div><br>Elsewhere
+
+<div align="center"><a href="https://id.stenly.org">
+<img src="https://img.shields.io/badge/OrbitCloud-111111?style=flat-square&logo=cloudflare&logoColor=00D9FF"/>
+</a> 
+
 <a href="https://stenly.id">
-  <img src="https://img.shields.io/badge/Vyuxn-000000?style=for-the-badge&logo=google-cloud&logoColor=cyan"/>
-</a>
+<img src="https://img.shields.io/badge/Vyuxn-111111?style=flat-square&logo=google-cloud&logoColor=00D9FF"/>
+</a> 
+
 <a href="mailto:glaeceny@vyuxn.xyz">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=cyan"/>
-</a>
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=00D9FF"/>
+</a></div><br><br>
 
-</div>
-
-<br>
-
-<div align="center">
-
-### 🛠️ Tech Stack
-
-**Bahasa & Scripting**
-<br>
-<img src="https://img.shields.io/badge/Pawn-000000?style=for-the-badge&logo=codingninjas&logoColor=cyan">
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=cyan">
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=cyan">
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=cyan">
-
-**Infra & Tools**
-<br>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=cyan">
-<img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=cyan">
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=cyan">
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=cyan">
-
-**Minat Lainnya**
-<br>
-<img src="https://img.shields.io/badge/Security%20Basics-000000?style=for-the-badge&logo=hackthebox&logoColor=cyan">
-<img src="https://img.shields.io/badge/Server%20Admin-000000?style=for-the-badge&logo=serverfault&logoColor=cyan">
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=glarceny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&text_color=00FFFF&icon_color=00FFFF&title_color=00FFFF" height="165"/>
-<img src="https://streak-stats.demolab.com?user=glarceny&theme=tokyonight&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=888888" height="165"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glarceny&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&text_color=00FFFF&title_color=00FFFF" height="165"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 📈 Aktivitas Kontribusi
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=glarceny&theme=tokyo-night&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&hide_border=true" width="90%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=stenlykaelan&label=Profile%20Views&color=00FFFF&style=for-the-badge">
+<div align="center"><sub>Learning quietly. Building consistently.</sub>
 
 <br><br>
 
-<i>Terima kasih sudah mampir 👋 — jangan ragu untuk membuka diskusi lewat Issues atau email di atas.</i>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:000000&height=100&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:050505&height=100&section=footer" width="100%"/></div>
