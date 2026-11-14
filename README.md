@@ -6,35 +6,80 @@ Currently focused on AI agents: tool use, memory, and execution loops. My backgr
 
 Based in Indonesia. Most of my work is private; the public pieces are below.
 
-## Focus
+<p align="center">
+  <picture>
+  <source media="(max-width: 760px)" srcset="./assets/title-focus-mobile.svg">
+  <img src="./assets/title-focus.svg" alt="Focus">
+</picture>
+</p>
 
-The interesting part is the loop around the model: tool contracts, memory, and failure handling.
+<p align="center">
+  <picture>
+  <source media="(max-width: 760px)" srcset="./assets/focus-mobile.svg">
+  <img src="./assets/focus.svg" alt="The interesting part is the loop: tool contracts, memory, and failure handling">
+</picture>
+</p>
 
 <p align="center">
   <img src="./assets/agent-loop.svg" width="720" alt="Agent loop: observe, plan, act, use tools, and update memory">
 </p>
 
-## Public work
+<p align="center"><sub>Observe, plan, act, then verify what changed.</sub></p>
+
+<p align="center">
+  <picture>
+  <source media="(max-width: 760px)" srcset="./assets/title-work-mobile.svg">
+  <img src="./assets/title-work.svg" alt="Public work">
+</picture>
+</p>
 
 Projects from the server and automation side:
 
-- **[StenlyBotBase](https://github.com/glarceny/StenlyBotBase)** — modular WhatsApp bot base with plugin auto-loading, hot reload, interactive menus, and pairing-code support. *Node.js*
-- **[StenlyBot-SAMP](https://github.com/glarceny/StenlyBot-SAMP)** — WhatsApp bot for SA-MP whitelist and server management, built on Baileys. *JavaScript*
-- **[rpc-send-server](https://github.com/glarceny/rpc-send-server-0.3.7dl)** — RPC layer for SA-MP servers. *Lua*
-
-## Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-0B0F0E?style=flat-square&amp;logo=typescript&amp;logoColor=63F2C2" height="28" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-0B0F0E?style=flat-square&amp;logo=nodedotjs&amp;logoColor=63F2C2" height="28" alt="Node.js">
-  <img src="https://img.shields.io/badge/JavaScript-0B0F0E?style=flat-square&amp;logo=javascript&amp;logoColor=63F2C2" height="28" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Lua-0B0F0E?style=flat-square&amp;logo=lua&amp;logoColor=63F2C2" height="28" alt="Lua">
-  <img src="https://img.shields.io/badge/Linux-0B0F0E?style=flat-square&amp;logo=linux&amp;logoColor=63F2C2" height="28" alt="Linux">
-  <img src="https://img.shields.io/badge/Cloudflare-0B0F0E?style=flat-square&amp;logo=cloudflare&amp;logoColor=63F2C2" height="28" alt="Cloudflare">
+  <a href="https://github.com/glarceny/StenlyBotBase"><picture>
+    <source media="(max-width: 760px)" srcset="./assets/work-botbase-mobile.svg">
+    <img src="./assets/work-botbase.svg" alt="StenlyBotBase: modular WhatsApp bot base with plugins, hot reload, and pairing codes">
+  </picture></a><br>
+  <a href="https://github.com/glarceny/StenlyBot-SAMP"><picture>
+    <source media="(max-width: 760px)" srcset="./assets/work-samp-mobile.svg">
+    <img src="./assets/work-samp.svg" alt="StenlyBot-SAMP: WhatsApp bot for SA-MP whitelist and server management">
+  </picture></a><br>
+  <a href="https://github.com/glarceny/rpc-send-server-0.3.7dl"><picture>
+    <source media="(max-width: 760px)" srcset="./assets/work-rpc-mobile.svg">
+    <img src="./assets/work-rpc.svg" alt="rpc-send-server: RPC layer for SA-MP servers">
+  </picture></a>
 </p>
 
-<p align="center">Lua · Pawn · JavaScript · TypeScript · Node.js · Socket.IO · Linux · Cloudflare</p>
+<p align="center">
+  <picture>
+  <source media="(max-width: 760px)" srcset="./assets/title-stack-mobile.svg">
+  <img src="./assets/title-stack.svg" alt="Stack">
+</picture>
+</p>
 
-## Elsewhere
+<p align="center">
+  <picture>
+  <source media="(max-width: 760px)" srcset="./assets/stack-mobile.svg">
+  <img src="./assets/stack.svg" alt="Stack: languages, runtime, systems, and current focus">
+</picture>
+</p>
 
-[stenly.org](https://stenly.org) · [GitHub](https://github.com/glarceny)
+<p align="center">
+  <picture>
+  <source media="(max-width: 760px)" srcset="./assets/title-contact-mobile.svg">
+  <img src="./assets/title-contact.svg" alt="Elsewhere">
+</picture>
+</p>
+
+<p align="center">
+  <a href="https://stenly.org"><img src="./assets/link-web.svg" width="424" alt="stenly.org website"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/glarceny"><img src="./assets/link-github.svg" width="424" alt="github.com/glarceny profile"></a>
+</p>
+
+<p align="center">
+  <picture>
+  <source media="(max-width: 760px)" srcset="./assets/footer-mobile.svg">
+  <img src="./assets/footer.svg" alt="glarceny, Indonesia">
+</picture>
+</p>
