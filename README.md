@@ -13,9 +13,6 @@
     <a href="https:// stenly.id">
       <img src="https://img.shields.io/badge/Vyuxn-000000?style=for-the-badge&logo=google-cloud&logoColor=cyan">
     </a>
-    <a href="mailto:glaeceny@vyuxn.xyz">
-      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=cyan">
-    </a>
   </p>
 
   <p>
