@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="48" viewBox="0 0 270 48" role="img" aria-label="github.com/glarceny">
+<style>.m{font-family:'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}.s{font-family:Inter,'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}</style>
+<rect x="1" y="1" width="268" height="46" rx="23" fill="#63F2C2" fill-opacity=".08" stroke="#63F2C2"><animate attributeName="fill-opacity" values=".06;.16;.06" dur="4s" repeatCount="indefinite"/></rect>
+<text x="135.0" y="29" text-anchor="middle" class="m" font-size="14" font-weight="700" fill="#63F2C2">github.com/glarceny</text>
+</svg>

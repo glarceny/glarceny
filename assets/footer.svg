@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="120" viewBox="0 0 880 120" role="img" aria-label="glarceny">
+<style>.m{font-family:'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}.s{font-family:Inter,'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}</style>
+<defs><clipPath id="r"><rect width="880" height="120" rx="18"/></clipPath></defs>
+<g clip-path="url(#r)"><rect width="880" height="120" fill="#0B0F0E"/>
+<path d="M0 66 Q110 36 220 66 T440 66 T660 66 T880 66 V120 H0 Z" fill="#63F2C2" fill-opacity=".07"><animate attributeName="d" values="M0 66 Q110 36 220 66 T440 66 T660 66 T880 66 V120 H0 Z;M0 66 Q110 96 220 66 T440 66 T660 66 T880 66 V120 H0 Z;M0 66 Q110 36 220 66 T440 66 T660 66 T880 66 V120 H0 Z" dur="8s" repeatCount="indefinite"/></path>
+<path d="M0 78 Q110 52 220 78 T440 78 T660 78 T880 78 V120 H0 Z" fill="#63F2C2" fill-opacity=".10"><animate attributeName="d" values="M0 78 Q110 104 220 78 T440 78 T660 78 T880 78 V120 H0 Z;M0 78 Q110 52 220 78 T440 78 T660 78 T880 78 V120 H0 Z;M0 78 Q110 104 220 78 T440 78 T660 78 T880 78 V120 H0 Z" dur="6s" repeatCount="indefinite"/></path>
+<text x="440" y="46" text-anchor="middle" class="m" font-size="12" fill="#A9BDB6">glarceny, building the loop around the model</text></g>
+<rect x=".5" y=".5" width="879" height="119" rx="18" fill="none" stroke="#1E2A26"/>
+</svg>

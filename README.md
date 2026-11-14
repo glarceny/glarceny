@@ -1,40 +1,59 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="880" alt="glarceny — AI agents, tool use, and automation">
+  <img src="./assets/hero.svg" width="880" alt="glarceny: AI agents, tool use, and automation">
 </p>
-
-Currently focused on AI agents: tool use, memory, and execution loops. My background is in multiplayer game servers, RPC, and automation.
-
-Based in Indonesia. Most of my work is private; the public pieces are below.
-
-## Focus
-
-The interesting part is the loop around the model: tool contracts, memory, and failure handling.
 
 <p align="center">
-  <img src="./assets/agent-loop.svg" width="720" alt="Agent loop: observe, plan, act, use tools, and update memory">
+  Currently focused on <b>AI agents</b>: tool use, memory, and execution loops.<br>
+  Background in multiplayer game servers, RPC, and automation. Based in Indonesia.<br>
+  <sub>Most of my work is private; the public pieces are below.</sub>
 </p>
 
-## Public work
+<br>
 
-Projects from the server and automation side:
+<p align="center"><img src="./assets/title-focus.svg" width="880" alt="Focus"></p>
 
-- **[StenlyBotBase](https://github.com/glarceny/StenlyBotBase)** — modular WhatsApp bot base with plugin auto-loading, hot reload, interactive menus, and pairing-code support. *Node.js*
-- **[StenlyBot-SAMP](https://github.com/glarceny/StenlyBot-SAMP)** — WhatsApp bot for SA-MP whitelist and server management, built on Baileys. *JavaScript*
-- **[rpc-send-server](https://github.com/glarceny/rpc-send-server-0.3.7dl)** — RPC layer for SA-MP servers. *Lua*
-
-## Stack
+<p align="center"><img src="./assets/focus.svg" width="880" alt="Tool contracts, memory, execution loops, failure handling"></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-0B0F0E?style=flat-square&amp;logo=typescript&amp;logoColor=63F2C2" height="28" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-0B0F0E?style=flat-square&amp;logo=nodedotjs&amp;logoColor=63F2C2" height="28" alt="Node.js">
-  <img src="https://img.shields.io/badge/JavaScript-0B0F0E?style=flat-square&amp;logo=javascript&amp;logoColor=63F2C2" height="28" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Lua-0B0F0E?style=flat-square&amp;logo=lua&amp;logoColor=63F2C2" height="28" alt="Lua">
-  <img src="https://img.shields.io/badge/Linux-0B0F0E?style=flat-square&amp;logo=linux&amp;logoColor=63F2C2" height="28" alt="Linux">
-  <img src="https://img.shields.io/badge/Cloudflare-0B0F0E?style=flat-square&amp;logo=cloudflare&amp;logoColor=63F2C2" height="28" alt="Cloudflare">
+  The interesting part is the loop around the model.
 </p>
 
-<p align="center">Lua · Pawn · JavaScript · TypeScript · Node.js · Socket.IO · Linux · Cloudflare</p>
+<p align="center">
+  <img src="./assets/agent-loop.svg" width="880" alt="Agent loop: observe, plan, act, use tools, update memory">
+</p>
 
-## Elsewhere
+<br>
 
-[stenly.org](https://stenly.org) · [GitHub](https://github.com/glarceny)
+<p align="center"><img src="./assets/title-work.svg" width="880" alt="Public work"></p>
+
+<p align="center">Projects from the server and automation side.</p>
+
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/glarceny/StenlyBotBase"><img src="./assets/card-botbase.svg" width="280" alt="StenlyBotBase"></a></td>
+    <td><a href="https://github.com/glarceny/StenlyBot-SAMP"><img src="./assets/card-samp.svg" width="280" alt="StenlyBot-SAMP"></a></td>
+    <td><a href="https://github.com/glarceny/rpc-send-server-0.3.7dl"><img src="./assets/card-rpc.svg" width="280" alt="rpc-send-server"></a></td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center"><img src="./assets/title-stack.svg" width="880" alt="Stack"></p>
+
+<p align="center">
+  <img src="./assets/stack.svg" width="880" alt="TypeScript, JavaScript, Lua, Pawn, Node.js, Socket.IO, Linux, Cloudflare">
+</p>
+
+<br>
+
+<p align="center"><img src="./assets/title-contact.svg" width="880" alt="Elsewhere"></p>
+
+<p align="center">
+  <a href="https://stenly.org"><img src="./assets/btn-web.svg" height="48" alt="stenly.org"></a>
+  &nbsp;
+  <a href="https://github.com/glarceny"><img src="./assets/btn-github.svg" height="48" alt="github.com/glarceny"></a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="880" alt="glarceny">
+</p>
