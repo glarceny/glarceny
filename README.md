@@ -1,35 +1,29 @@
-<div align="center" style="background-color:#000; color:#00ffff; padding: 20px; border-radius: 10px;">
+<p align="center">
+  <img src="./assets/hero.svg" width="880" alt="glarceny — game server systems, automation, and multiplayer tooling">
+</p>
 
-  <h1 style="color:#00ffff;">Llama ly's</h1>
+I build game server systems: orchestration, anti-cheat, RPC, and automation for multiplayer communities.
 
-  <p>
-    Focus on <b>Data Analysis</b> | <b>Game Server Development</b> | <b>Web Projects</b> | <b>Pawn Scripting</b>
-  </p>
+Based in Indonesia. Most of my work is private; the public pieces are below.
 
-  <p>
-    <a href="https://id.stenly.org">
-      <img src="https://img.shields.io/badge/OrbitCloud-000000?style=for-the-badge&logo=cloudflare&logoColor=cyan">
-    </a>
-    <a href="https:// stenly.id">
-      <img src="https://img.shields.io/badge/Vyuxn-000000?style=for-the-badge&logo=google-cloud&logoColor=cyan">
-    </a>
-  </p>
+**Currently** — building [StenlyBotBase](https://github.com/glarceny/StenlyBotBase), a modular WhatsApp bot base.
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=glarceny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&text_color=00FFFF" height="150">
-    <img src="https://streak-stats.demolab.com?user=glarceny&theme=tokyonight&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="150">
-  </p>
+## Selected work
 
-  <p>
-    <img src="https://img.shields.io/badge/Pawn-000000?style=for-the-badge&logo=codingninjas&logoColor=cyan">
-    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=cyan">
-    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=cyan">
-    <img src="https://img.shields.io/badge/Cloud-000000?style=for-the-badge&logo=cloudflare&logoColor=cyan">
-    <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackthebox&logoColor=cyan">
-  </p>
+- **[StenlyBotBase](https://github.com/glarceny/StenlyBotBase)** — modular WhatsApp bot base with plugin auto-loading, hot reload, interactive menus, and pairing-code support. *Node.js*
+- **[StenlyBot-SAMP](https://github.com/glarceny/StenlyBot-SAMP)** — WhatsApp bot for SA-MP whitelist and server management, built on Baileys. *JavaScript*
+- **[rpc-send-server](https://github.com/glarceny/rpc-send-server-0.3.7dl)** — RPC layer for SA-MP servers. *Lua*
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=stenlykaelan&label=Profile%20Views&color=00FFFF&style=flat">
-  </p>
+## What I work on
 
-</div>
+- **Game servers** — SA-MP, Pawn, Lua, anti-cheat, and server-side systems.
+- **Automation** — Node.js bots, plugin architectures, and WhatsApp/Baileys.
+- **Tooling** — TypeScript dashboards, Linux, Cloudflare, and RPC.
+
+## Stack
+
+Lua · Pawn · JavaScript · TypeScript · Node.js · Socket.IO · Linux · Cloudflare
+
+## Elsewhere
+
+[stenly.org](https://stenly.org) · [GitHub](https://github.com/glarceny)
