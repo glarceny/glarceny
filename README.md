@@ -26,9 +26,3 @@ Based in Indonesia. Most of my work is private; the public pieces are below.
 
 <p align="center"><sub>Observe, plan, act, then verify what changed.</sub></p>
 
-<p align="center">
-  <picture>
-  <source media="(max-width: 760px)" srcset="./assets/title-work-mobile.svg">
-  <img src="./assets/title-work.svg" alt="Public work">
-</picture>
-</p>
