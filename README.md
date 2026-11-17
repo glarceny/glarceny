@@ -23,6 +23,3 @@ Based in Indonesia. Most of my work is private; the public pieces are below.
 <p align="center">
   <img src="./assets/agent-loop.svg" width="720" alt="Agent loop: observe, plan, act, use tools, and update memory">
 </p>
-
-<p align="center"><sub>Observe, plan, act, then verify what changed.</sub></p>
-
