@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="880" alt="glarceny — AI agents, tool use, and automation">
+  <img src="./assets/hero.svg" width="880" alt="Llama ly's — AI agents, tool use, and automation">
 </p>
 
 Currently focused on AI agents: tool use, memory, and execution loops. My background is in multiplayer game servers, RPC, and automation.
